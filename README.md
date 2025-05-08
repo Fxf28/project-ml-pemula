@@ -66,7 +66,7 @@ jupyter notebook
 ## Kontak
 Untuk pertanyaan atau diskusi lebih lanjut, silakan hubungi:
 - Nama: Faiz Fajar
-- Email: [faizfjr666@gmail.com](mailto:faizfjr666@gmail.com)
+- Email: <a href="mailto:faizfjr666@gmail.com">faizfjr666@gmail.com</a>
 
 
 
